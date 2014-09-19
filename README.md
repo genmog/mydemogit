@@ -1,0 +1,4 @@
+mydemogit
+=========
+
+First git repo
